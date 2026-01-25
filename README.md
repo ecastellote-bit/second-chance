@@ -1,4 +1,22 @@
+**Second Chance** is an open-source idea at a very early stage.  
+No product. No payments. No promises.
 
+This is **not** a job offer.  
+This is **not** a miracle AI.  
+This is **not** a startup pitch.
+
+We’re exploring a human-centered AI system designed to:
+- listen to a person’s full life story (not a form, not a quiz),
+- identify patterns, interests, and real constraints,
+- and connect that clarity to **realistic** paths of learning, community, and work.
+
+It’s not therapy. Not a mental health app. Not “career advice for 20-year-olds”.  
+It’s a slow, careful attempt to help adults move closer to their vocation **without gambling their stability**.
+
+If you’re a developer and this resonates, start here:
+- Read the repo
+- Think twice
+- Open an Issue: **“Why I’m here”**
 # 🧨 SECOND CHANCE  
 ### Explosives of life. Use with responsibility.
 
